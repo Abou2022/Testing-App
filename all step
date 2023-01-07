@@ -1,0 +1,5 @@
+1. install package.json (npm init -y)
+2. Install mocha and chai (npm --save-dev mocha chai)
+3. new directory file src(file letter-count.js and letter-count.test.js)
+4. Install babel package (npm install --save-dev @babel/core @babel/preset-env @babel/register)
+5.
